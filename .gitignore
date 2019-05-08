@@ -1,0 +1,51 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mac OSX
+.DS_Store
+
+# Custom
+*.log
+*.e4p
+*.spec
+*.autosave
+*.sqlite3
+*.py,cover
+htmlcov/
+docs/_build
+tests/fixtures/backup.json
+_eric6project/
+.eric6project/
+.pytest_cache/
+.cache/
+.vscode
+.python-version

@@ -268,7 +268,7 @@ SIGMET/AIRMET 报文验证类似，不再做举例。
 
 .. code-block:: http
 
-    POST /api/metar HTTP/1.1
+    POST /api/metars HTTP/1.1
 
 参数：
 
